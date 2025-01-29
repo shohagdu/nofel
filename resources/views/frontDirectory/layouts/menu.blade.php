@@ -7,7 +7,7 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0">
             <a href="{{ url('/') }}" class="navbar-brand">
-                <img src="{{ url('/public/logo/logo.jpeg') }}" style="height: 80px;">
+                <img src="{{ url('/public/logo/logo.jpeg') }}" style="height: 100px;">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
